@@ -35,4 +35,4 @@ Bug reporting is the process of documenting and communicating software defects t
 **Severity:** High  
 **Priority:** Medium  
 
-Would you like me to help you create a bug report template or format it for a specific tool like Jira, Trello, or Excel?
+
